@@ -1,0 +1,8 @@
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/basic_13/bin/Debug/netcoreapp1.1/basic_13.deps.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/basic_13/bin/Debug/netcoreapp1.1/basic_13.runtimeconfig.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/basic_13/bin/Debug/netcoreapp1.1/basic_13.runtimeconfig.dev.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/basic_13/obj/Debug/netcoreapp1.1/basic_13.AssemblyInfo.cs
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/basic_13/bin/Debug/netcoreapp1.1/basic_13.dll
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/basic_13/bin/Debug/netcoreapp1.1/basic_13.pdb
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/basic_13/obj/Debug/netcoreapp1.1/basic_13.dll
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/basic_13/obj/Debug/netcoreapp1.1/basic_13.pdb
