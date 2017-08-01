@@ -1,0 +1,8 @@
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/dictionary_class/bin/Debug/netcoreapp1.1/dictionary_class.deps.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/dictionary_class/bin/Debug/netcoreapp1.1/dictionary_class.runtimeconfig.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/dictionary_class/bin/Debug/netcoreapp1.1/dictionary_class.runtimeconfig.dev.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/dictionary_class/obj/Debug/netcoreapp1.1/dictionary_class.AssemblyInfo.cs
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/dictionary_class/bin/Debug/netcoreapp1.1/dictionary_class.dll
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/dictionary_class/bin/Debug/netcoreapp1.1/dictionary_class.pdb
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/dictionary_class/obj/Debug/netcoreapp1.1/dictionary_class.dll
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/dictionary_class/obj/Debug/netcoreapp1.1/dictionary_class.pdb
