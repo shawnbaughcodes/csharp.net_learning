@@ -6,3 +6,4 @@
 /Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/human_oop/obj/Debug/netcoreapp1.1/human_oop.AssemblyInfo.cs
 /Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/human_oop/obj/Debug/netcoreapp1.1/human_oop.dll
 /Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/human_oop/obj/Debug/netcoreapp1.1/human_oop.pdb
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/human_oop/obj/Debug/netcoreapp1.1/human_oop.csprojResolveAssemblyReference.cache

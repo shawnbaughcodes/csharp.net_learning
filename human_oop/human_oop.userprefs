@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{3846606D-4970-4D5B-9BA8-CF80BC3E748C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Human.cs">
     <Files>
-      <File FileName="Human.cs" Line="1" Column="1" />
+      <File FileName="Human.cs" Line="34" Column="40" />
       <File FileName="Program.cs" Line="1" Column="1" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>

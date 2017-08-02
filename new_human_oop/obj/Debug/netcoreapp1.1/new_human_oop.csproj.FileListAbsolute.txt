@@ -1,0 +1,8 @@
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/new_human_oop/bin/Debug/netcoreapp1.1/new_human_oop.deps.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/new_human_oop/bin/Debug/netcoreapp1.1/new_human_oop.runtimeconfig.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/new_human_oop/bin/Debug/netcoreapp1.1/new_human_oop.runtimeconfig.dev.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/new_human_oop/bin/Debug/netcoreapp1.1/new_human_oop.dll
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/new_human_oop/bin/Debug/netcoreapp1.1/new_human_oop.pdb
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/new_human_oop/obj/Debug/netcoreapp1.1/new_human_oop.AssemblyInfo.cs
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/new_human_oop/obj/Debug/netcoreapp1.1/new_human_oop.dll
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/new_human_oop/obj/Debug/netcoreapp1.1/new_human_oop.pdb
