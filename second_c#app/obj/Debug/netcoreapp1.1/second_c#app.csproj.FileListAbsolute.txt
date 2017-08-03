@@ -1,0 +1,8 @@
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/second_c#app/bin/Debug/netcoreapp1.1/second_c#app.deps.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/second_c#app/bin/Debug/netcoreapp1.1/second_c#app.runtimeconfig.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/second_c#app/bin/Debug/netcoreapp1.1/second_c#app.runtimeconfig.dev.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/second_c#app/bin/Debug/netcoreapp1.1/second_c#app.dll
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/second_c#app/bin/Debug/netcoreapp1.1/second_c#app.pdb
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/second_c#app/obj/Debug/netcoreapp1.1/second_c#app.AssemblyInfo.cs
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/second_c#app/obj/Debug/netcoreapp1.1/second_c#app.dll
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/second_c#app/obj/Debug/netcoreapp1.1/second_c#app.pdb
