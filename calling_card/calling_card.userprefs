@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E9D84DD6-111C-441E-B08F-497D76DFF9A1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Controllers/cardController.cs" Line="17" Column="10" />
+      <File FileName="Startup.cs" Line="19" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.calling__card PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

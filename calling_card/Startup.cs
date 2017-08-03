@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace second_c_app
+namespace calling_card
 {
     public class Startup
     {
@@ -28,14 +28,12 @@ namespace second_c_app
             {
                 app.UseDeveloperExceptionPage();
             }
-
             app.UseMvc();
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello");
+                await context.Response.WriteAsync("Hello World!");
             });
         }
-
     }
 }
