@@ -1,0 +1,8 @@
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/time_display/bin/Debug/netcoreapp1.1/time_display.deps.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/time_display/bin/Debug/netcoreapp1.1/time_display.runtimeconfig.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/time_display/bin/Debug/netcoreapp1.1/time_display.runtimeconfig.dev.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/time_display/bin/Debug/netcoreapp1.1/time_display.dll
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/time_display/bin/Debug/netcoreapp1.1/time_display.pdb
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/time_display/obj/Debug/netcoreapp1.1/time_display.AssemblyInfo.cs
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/time_display/obj/Debug/netcoreapp1.1/time_display.dll
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/time_display/obj/Debug/netcoreapp1.1/time_display.pdb
