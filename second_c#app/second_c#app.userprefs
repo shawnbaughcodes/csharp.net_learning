@@ -1,23 +1,11 @@
 ﻿<Properties StartupConfiguration="{2E2347A1-8174-4D90-8001-016121FEF8AA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HelloController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Hello/Index.cshtml">
     <Files>
       <File FileName="Startup.cs" Line="32" Column="26" />
       <File FileName="Program.cs" Line="21" Column="24" />
-      <File FileName="Controllers/HelloController.cs" Line="24" Column="15" />
+      <File FileName="Controllers/HelloController.cs" Line="14" Column="9" />
+      <File FileName="Views/Hello/Index.cshtml" Line="4" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="second_c#app" expanded="True">
-            <Node name="second_c#app" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="HelloController.cs" selected="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

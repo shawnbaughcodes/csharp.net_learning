@@ -7,9 +7,9 @@ namespace YourNamespace.Controllers
     {
         [HttpGet]
         [Route("")]
-        public JsonResult DisplayNum()
-        {
-            return Json(35);
+        public IActionResult Index()
+        {   
+            return View("Index");
         }
 
         [HttpGet]
