@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B8EED6A3-1743-4951-B8DD-4CC79E503513}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/SurveyController.cs">
+    <Files>
+      <File FileName="Controllers/SurveyController.cs" Line="18" Column="27" />
+      <File FileName="Views/Survey/Index.cshtml" Line="11" Column="4" />
+      <File FileName="Startup.cs" Line="32" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.dojo__survey PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -14501,10 +14501,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/oop/oop.csproj",
-      "projectName": "oop",
-      "projectPath": "/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/oop/oop.csproj",
-      "outputPath": "/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/oop/obj",
+      "projectUniqueName": "/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/oop2/oop2.csproj",
+      "projectName": "oop2",
+      "projectPath": "/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/oop2/oop2.csproj",
+      "outputPath": "/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/oop2/obj",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

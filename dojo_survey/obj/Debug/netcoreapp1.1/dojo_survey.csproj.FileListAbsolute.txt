@@ -1,0 +1,8 @@
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/dojo_survey/bin/Debug/netcoreapp1.1/dojo_survey.deps.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/dojo_survey/bin/Debug/netcoreapp1.1/dojo_survey.runtimeconfig.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/dojo_survey/bin/Debug/netcoreapp1.1/dojo_survey.runtimeconfig.dev.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/dojo_survey/bin/Debug/netcoreapp1.1/dojo_survey.dll
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/dojo_survey/bin/Debug/netcoreapp1.1/dojo_survey.pdb
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/dojo_survey/obj/Debug/netcoreapp1.1/dojo_survey.AssemblyInfo.cs
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/dojo_survey/obj/Debug/netcoreapp1.1/dojo_survey.dll
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/dojo_survey/obj/Debug/netcoreapp1.1/dojo_survey.pdb

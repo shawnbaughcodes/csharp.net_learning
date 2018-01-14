@@ -1,0 +1,8 @@
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/oop2/bin/Debug/netcoreapp1.1/oop2.deps.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/oop2/bin/Debug/netcoreapp1.1/oop2.runtimeconfig.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/oop2/bin/Debug/netcoreapp1.1/oop2.runtimeconfig.dev.json
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/oop2/bin/Debug/netcoreapp1.1/oop2.dll
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/oop2/bin/Debug/netcoreapp1.1/oop2.pdb
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/oop2/obj/Debug/netcoreapp1.1/oop2.AssemblyInfo.cs
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/oop2/obj/Debug/netcoreapp1.1/oop2.dll
+/Users/shawnbaughcreatives/Documents/atom_builds/c#.net_learning/oop2/obj/Debug/netcoreapp1.1/oop2.pdb

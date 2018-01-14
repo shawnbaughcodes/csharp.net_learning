@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{FAC3427E-02E0-4E5D-AB92-3573CE39CB15}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pixel.cs">
+    <Files>
+      <File FileName="Program.cs" Line="9" Column="47" />
+      <File FileName="MobilePhone.cs" Line="8" Column="32" />
+      <File FileName="Iphone.cs" Line="7" Column="35" />
+      <File FileName="Pixel.cs" Line="6" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.oop2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
